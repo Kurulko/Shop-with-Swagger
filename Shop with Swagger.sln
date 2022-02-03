@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop with Swagger", "Shop with Swagger\Shop with Swagger.csproj", "{DC169020-1B7B-4812-B166-97E0F8C14FD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC169020-1B7B-4812-B166-97E0F8C14FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC169020-1B7B-4812-B166-97E0F8C14FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC169020-1B7B-4812-B166-97E0F8C14FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC169020-1B7B-4812-B166-97E0F8C14FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBD4A4CB-661D-4A56-A219-A935D7069FD0}
+	EndGlobalSection
+EndGlobal
